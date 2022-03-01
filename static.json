@@ -2,6 +2,7 @@
   "headers":{
     "*/":{
       "X-Autor": "raindowmiacat"
+      "Access-Control-Allow-Origin":"*"
     }
   }
 }
