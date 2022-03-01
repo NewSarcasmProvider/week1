@@ -1,7 +1,7 @@
 {
   "headers":{
     "*/":{
-      "X-Autor": "raindowmiacat",
+      "X-Author": "raindowmiacat",
       "Access-Control-Allow-Origin":"*"
     }
   }
